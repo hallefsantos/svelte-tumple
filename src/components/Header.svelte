@@ -20,7 +20,7 @@
    </div>
 
    <div class="absolute inset-0 {isMenuOpen ? 'block' : 'hidden'} block">
-      <div class="fixed w-full h-screen bg-black inset-0 z-10 bg-opacity-50"></div>
+      <div class="fixed w-full h-screen bg-gray-900 inset-0 z-10 bg-opacity-50"></div>
       <div class="m-4 z-20 p-6 relative bg-white rounded-lg">
          <div class="flex mb-4 items-center justify-between">
             <span class="text-gray-600 text-sm">Navigation</span>
@@ -35,7 +35,7 @@
          <a class="block mt-6 text-gray-900 text-lg font-normal" href="#">Docs</a>
          <a class="block mt-6 text-gray-900 text-lg font-normal" href="#">Blog</a>
          <a class="block mt-6 text-gray-900 text-lg font-normal" href="#">Sign In</a>
-         <a class="block mt-8 p-2 text-white bg-indigo-600 text-center rounded-lg font-semibold" href="#">Sign Up</a>
+         <a class="block mt-8 p-2 text-white bg-indigo-600 text-center rounded font-semibold" href="#">Sign Up</a>
       </div>
    </div>
 
